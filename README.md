@@ -1,4 +1,4 @@
-# AI Agent for Financial Analysis with Web Search
+# AI Agent for Financial Analysis with Web Search Using Phidata
 
 ## Overview
 
